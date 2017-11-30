@@ -1,4 +1,5 @@
 bleach==2.1.1
+cycler==0.10.0
 decorator==4.1.2
 entrypoints==0.2.3
 html5lib==1.0b10
@@ -16,10 +17,14 @@ jupyter-core==4.4.0
 jupyterlab==0.29.2
 jupyterlab-launcher==0.5.5
 MarkupSafe==1.0
+matplotlib==2.1.0
 mistune==0.8.1
 nbconvert==5.3.1
 nbformat==4.4.0
+nltk==3.2.5
 notebook==5.2.2
+numpy==1.13.3
+pandas==0.21.0
 pandocfilters==1.4.2
 parso==0.1.0
 pexpect==4.3.0
@@ -27,9 +32,13 @@ pickleshare==0.7.4
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 Pygments==2.2.0
+pyparsing==2.2.0
 python-dateutil==2.6.1
+pytz==2017.3
 pyzmq==16.0.3
 qtconsole==4.3.1
+scikit-learn==0.19.1
+scipy==1.0.0
 simplegeneric==0.8.1
 six==1.11.0
 terminado==0.8.1
